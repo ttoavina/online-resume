@@ -7,7 +7,7 @@ basic:
   title: Développeur Fullstack Javascript
   avatar:
     show: false
-    path:
+    path: 
 
 contact:
   location: Madagascar
@@ -107,6 +107,17 @@ experience:
         Développement de Navirate, une application web de gestion logistique pour un client international.
         Contribution à l’implémentation de nouvelles fonctionnalités et optimisation de l’application.
         Intégration dans une équipe française pour assurer performance et scalabilité.
+        
+    - company: Generis Innovation Solution
+      link:
+      tags: Full-time
+      date: Novembre 2024 - Janvier 2025
+      role: Développeur React
+      location:
+      description: |
+        Développement de Navirate, une application web de gestion logistique pour un client international.
+        Contribution à l’implémentation de nouvelles fonctionnalités et optimisation de l’application.
+        Intégration dans une équipe française pour assurer performance et scalabilité.
 
     - company: Ingenosya
       link:
@@ -181,7 +192,7 @@ skill:
   items:
     - name: JavaScript
     - name: TypeScript
-    - name: React.js / React TS
+    - name: React.js
     - name: Node.js
     - name: NestJS
     - name: Tailwind CSS
@@ -203,9 +214,9 @@ education:
   items:
     - institution: Institut Supérieur Polytechnique de Madagascar
       link:
-      date: 2024
+      date: 2025
       major: Génie Logiciel
-      degree: Master (en cours)
+      degree: Master 2
       description:
 
     - institution: Institut Supérieur Polytechnique de Madagascar
