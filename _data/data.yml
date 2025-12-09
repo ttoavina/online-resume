@@ -97,16 +97,17 @@ experience:
   title: Expériences professionnelles
   description:
   items:
-    - company: Generis Innovation Solution
+    - company: Constellation Group
       link:
       tags: Full-time
-      date: Novembre 2024 - Janvier 2025
-      role: Développeur React
+      date: Mars 2025 - Aujourd’hui
+      role: Développeur JavaScript
       location:
       description: |
-        Développement de Navirate, une application web de gestion logistique pour un client international.
-        Contribution à l’implémentation de nouvelles fonctionnalités et optimisation de l’application.
-        Intégration dans une équipe française pour assurer performance et scalabilité.
+        Élaboration, maintenance et développement de nouvelles fonctionnalités pour le SaaS MyAuxilium.
+        Participation à l’amélioration continue du produit, optimisation des performances et correction des bugs.
+        Collaboration avec l’équipe produit et technique pour garantir la qualité et la scalabilité de la plateforme.
+
         
     - company: Generis Innovation Solution
       link:
