@@ -144,7 +144,7 @@ experience:
 
 project:
   show: true
-  order: 3
+  order: 5
   title: Projets réalisés
   description:
   items:
@@ -209,7 +209,7 @@ skill:
 
 education:
   show: true
-  order: 5
+  order: 3
   title: Formations
   description:
   items:
